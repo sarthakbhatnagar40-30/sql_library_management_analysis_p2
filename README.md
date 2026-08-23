@@ -123,7 +123,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-bhatnagar-764470360/)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak.bhatnagar40@gamil.com)
 
 
 
